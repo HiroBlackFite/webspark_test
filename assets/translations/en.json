@@ -1,0 +1,30 @@
+{
+  "global": {
+    "error": "Error",
+    "close": "Close",
+    "somethingWentWrong": "Something went wrong!",
+    "connectingTimedOut": "Connecting timed out!",
+    "noInternetConnection": "No Internet connection"
+  },
+  "homeScreen": {
+    "appBar": "Home Screen",
+    "title": "Set valid API base URL in order to continue",
+    "baseUrl": {
+      "hintText": "Base URL",
+      "IsRequired": "Base URL is required!",
+      "incorrectFormat": "Incorrect Base URL format"
+    },
+    "startButton": "Start counting process"
+  },
+  "processScreen": {
+    "appBar": "Process screen",
+    "calculateResultText": "All calculations has finished, you can send your results to server",
+    "sendButton": "Send results to server"
+  },
+  "resultListScreen": {
+    "appBar": "Result list screen"
+  },
+  "previewScreen": {
+    "appBar": "Preview Screen"
+  }
+}
